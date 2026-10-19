@@ -1,0 +1,8 @@
+{
+  "name": "Fala Creativa - Comunicación Corporativa & Valor Compartido",
+  "description": "Consultoría estratégica y visión internacional en comunicación corporativa, relaciones públicas, vocería ejecutiva y creación de valor compartido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
